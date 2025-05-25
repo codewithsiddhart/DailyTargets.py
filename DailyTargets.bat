@@ -1,0 +1,1 @@
+start "" "C:\Users\error\Downloads\DailyTargets.-main\DailyTargets.-main\dist\problem1.exe"
